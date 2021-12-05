@@ -3,4 +3,4 @@ first-steps/
 */terraform.tfstate
 */terraform.tfstate.backup
 */.terraform
-*/mykey*
+*/*mykey*
